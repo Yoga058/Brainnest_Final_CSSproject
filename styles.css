@@ -1,0 +1,155 @@
+header{
+    background-color: #1F2937;
+    height:350px;
+}
+h7{
+    font-size: 25px;
+    color: white;
+    font-style:normal;
+}
+p{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+button{
+    color: white;
+    background-color: blue;
+    text-align: center;
+}
+nav{
+    display:flex;
+    justify-content: right;
+}
+nav ul li{
+    display: inline-block;
+    margin:10px; 20px;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+a{
+    color: #E5E7EB;
+}
+.Info{
+    font-size:36px;
+    font-weight: bolder;
+    color:#1F2937;
+    text-align: center;
+}
+img{
+    border-radius: 50px;
+}
+.Main{
+    margin:8px;
+    padding: 10px;
+    position: absolute;
+    left:350px;
+}
+.Red{
+    position: relative;
+    top:200px;
+    left:450px;
+}
+
+div[style="display: flex;"] {
+    border-radius:50;
+    height:135px;
+    justify-content: center;
+    justify-content: space-around;
+ }
+ .rectangle{
+    width:1500px;
+    height:200px;
+    background-color:#E5E7EB;
+}
+.rectangle,p{
+    font-style: italic;
+    color: black;
+    text-align:center;
+    margin: 10px;
+    padding:7px;
+}
+.last{
+    text-align:end;
+    color:white;
+    background-color:blue;
+}
+footer {
+    font-style: normal;
+    height:50px;
+    background-color:black;
+  }
+  .copy{
+    font-style: normal;
+    color:white;
+    font-size: small;
+  }
+  .container{
+    height:110px;
+    width:1150px;
+    display: flex;
+    background-color: dodgerblue;
+    margin: 0 auto;
+    border-radius:8px;
+  }
+  .rome{
+    font-style: normal;
+    color:#E5E7EB;
+ }
+ .logo{
+    width:100px;
+    height:70px;
+ }
+ nav ul li{
+    text-align: right;
+ }
+ header img.logo {
+    position: absolute;
+    top: 10px;
+    left:450px;
+  }
+  .image-class{
+    position: absolute;
+    top: 100px;
+    right:220px;
+}
+.button1{
+    position:absolute;
+    right:250px;
+    top:880px;
+    border:1px solid white;
+}
+.container,p{
+    font-style: normal;
+    text-align: center;
+}
+.container1{
+    text-align: center;
+  }
+  
+  .images {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .image-container {
+    width:25%; 
+    margin: 0 5px;
+    text-align: center;
+  }
+  
+  .image-container img {
+    width:50%; 
+  }
+  #id{
+    color:white;
+  }
+  .brand{
+    color: white;
+  }
+
+
+
+
+  
